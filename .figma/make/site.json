@@ -1,0 +1,10 @@
+{
+  "description": "This one-page website serves as an informational hub for Ghaith Charity Organization, showcasing its mission, programs, impact, and ways to get involved.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
